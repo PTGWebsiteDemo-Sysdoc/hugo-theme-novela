@@ -2,7 +2,7 @@
 authors = []
 date = 2022-05-17T23:00:00Z
 excerpt = "I figured maybe they were on sale, so I didn't think much of it."
-hero = "/static/images/giorgio-trovato-fczcr7mde7u-unsplash-1.jpg"
+hero = "/images/giorgio-trovato-fczcr7mde7u-unsplash-1.jpg"
 title = "Bananas are in Fashion due to shortages"
 
 +++
